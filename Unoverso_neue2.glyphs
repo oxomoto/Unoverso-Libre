@@ -16,7 +16,7 @@ k,
 "/ygrave",
 "ò"
 );
-copyright = "Copyright © 2020 by oxomoto. All rights reserved.";
+copyright = OFL;
 customParameters = (
 {
 name = Axes;
